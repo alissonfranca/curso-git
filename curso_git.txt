@@ -3,3 +3,4 @@
 - git init - iniciar repositório
 - git status
 - git add <file>
+- git commit -m "mensagem"
