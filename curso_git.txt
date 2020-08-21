@@ -1,0 +1,5 @@
+
+- ir para a pasta
+- git init - iniciar repositório
+- git status
+- git add <file>
